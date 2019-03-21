@@ -35,6 +35,7 @@ declare namespace NodeJS {
       scrim: import("../src/bot/systems/scrim").Scrim,
       top: import("../src/bot/systems/top").Top,
       userinfo: import("../src/bot/systems/userinfo").UserInfo,
+      keywords: import("../src/bot/systems/keywords").Keywords,
       [x: string]: any, // remove after all systems are ported to TS
     },
     users: any,

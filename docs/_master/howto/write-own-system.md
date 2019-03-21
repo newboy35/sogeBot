@@ -27,7 +27,7 @@ class Yoursystem extends System {
   }
 }
 
-export default YourSystem;
+export default Yoursystem;
 ```
 
 ### Depends on different system
